@@ -1,0 +1,14 @@
+@import "tailwindcss";
+.group:hover .group-hover\:scale-105 {
+    transform: scale(1.05);
+  }
+  .logo {
+    margin-left: 1rem;
+  }
+  
+  .logo svg {
+    height: 80px;
+    width: 120px;
+    margin-top: 0.3rem;
+  }
+ 
